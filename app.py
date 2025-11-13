@@ -381,8 +381,8 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #64748b;'>
     <p><strong>Financial Modeling Automation Studio</strong></p>
-    <p>Demonstrating PE/VC expertise + Python automation skills</p>
-    <p>Built with Streamlit • openpyxl • Plotly</p>
+    <p>Production-grade financial models • Automated with Python</p>
+    <p>Tech: Streamlit • openpyxl • Plotly</p>
 </div>
 """, unsafe_allow_html=True)
 
