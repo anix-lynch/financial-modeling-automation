@@ -1,9 +1,10 @@
 """
 Configuration for Financial Modeling Automation
 """
+import os
 
-# Path to your existing models
-VC_MODELS_PATH = "/Users/anixlynch/dev/northstar/vc fund model"
+# Path to models (set VC_MODELS_PATH env var or use default ./models)
+VC_MODELS_PATH = os.getenv("VC_MODELS_PATH", "models")
 
 # Sample model parameters
 DEFAULT_CAP_TABLE = {
