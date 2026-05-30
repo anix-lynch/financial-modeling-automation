@@ -1,4 +1,6 @@
 ---
+
+> 🟥 **L1 Truth / Automation** part of the [L1→L3 healthcare AI platform](https://gozeroshot.dev) — Truth → Features → Signals → Actions → Human adoption. This repo = data-driven financial modeling automation.
 title: Financial Modeling Automation
 emoji: 📊
 colorFrom: blue
